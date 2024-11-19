@@ -1,5 +1,5 @@
-# SFCL_hand
+# SSCL_hand
 
-Skeleton-aware Feature Contrastive Learning for Self-supervised Hand Pose Estimation.
+Skeleton-aware Soft Contrastive Learning for Self-supervised Hand Pose Estimation.
 
-The code is coming soon!
+Codes will be available in this repository after the official publication of the corresponding paper.
